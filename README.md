@@ -11,12 +11,13 @@ When an agent crashes, its final frame is held constant while the remaining agen
 
 **Figure 1:** Vertically stacked comparison of policy evolution from an untrained random policy to a fully trained autonomous driving agent.
 
+### ▶️ Evolution Video
+
+videos/evolution.mp4
+
 ---
 
 https://github.com/user-attachments/assets/004f2b14-001c-44bc-8c2d-b447d76a2c15
 
 
 
-### ▶️ Evolution Video
-
-videos/evolution.mp4
