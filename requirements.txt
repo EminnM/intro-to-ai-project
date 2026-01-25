@@ -1,0 +1,8 @@
+numpy>=1.23
+gymnasium>=0.28
+highway-env>=1.8
+stable-baselines3>=2.1
+torch>=2.0
+tensorboard>=2.13
+matplotlib>=3.7
+opencv-python>=4.8
