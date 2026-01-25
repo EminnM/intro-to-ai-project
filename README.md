@@ -13,6 +13,10 @@ When an agent crashes, its final frame is held constant while the remaining agen
 
 ---
 
+https://github.com/user-attachments/assets/004f2b14-001c-44bc-8c2d-b447d76a2c15
+
+
+
 ### ▶️ Evolution Video
 
 videos/evolution.mp4
