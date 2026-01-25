@@ -1,4 +1,4 @@
-## 🎥 Policy Evolution
+## Policy Evolution
 
 The following video visualizes the learning progress of the reinforcement learning agent across **exactly three training stages** in the `highway-fast-v0` environment.
 
@@ -7,13 +7,8 @@ The following video visualizes the learning progress of the reinforcement learni
 2. **Half-Trained Agent** — survives longer but still makes unsafe decisions  
 3. **Fully Trained Agent** — stable high-speed driving without collisions  
 
-When an agent crashes, its final frame is held constant while the remaining agents continue, enabling direct visual comparison of survival time and driving stability.
-
-**Figure 1:** Vertically stacked comparison of policy evolution from an untrained random policy to a fully trained autonomous driving agent.
-
 ### ▶️ Evolution Video
 
-videos/evolution.mp4
 
 ---
 
