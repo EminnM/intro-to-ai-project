@@ -6,13 +6,19 @@
   </tr>
   <tr>
     <td align="center">
-      <video src="videos/untrained.mp4" width="250" controls muted></video>
+      <a href="videos/untrained.mp4">
+        <img src="videos/untrained.png" width="250"/>
+      </a>
     </td>
     <td align="center">
-      <video src="videos/semi.mp4" width="250" controls muted></video>
+      <a href="videos/semi.mp4">
+        <img src="videos/semi.png" width="250"/>
+      </a>
     </td>
     <td align="center">
-      <video src="videos/final.mp4" width="250" controls muted></video>
+      <a href="videos/final.mp4">
+        <img src="videos/final.png" width="250"/>
+      </a>
     </td>
   </tr>
 </table>
