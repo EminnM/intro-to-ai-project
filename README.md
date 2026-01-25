@@ -12,7 +12,7 @@
       <video src="videos/semi.mp4" width="250" controls muted></video>
     </td>
     <td align="center">
-      <video src="videos/final" width="250" controls muted></video>
+      <video src="videos/final.mp4" width="250" controls muted></video>
     </td>
   </tr>
 </table>
