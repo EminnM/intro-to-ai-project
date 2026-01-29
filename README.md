@@ -130,7 +130,7 @@ tensorboard --logdir highway_dqn/
 
 ### Evaluation
 ```bash
-python main.py --mode eval --model-path models/model_100000 --episodes 5
+python main.py --mode eval --model-path "model_path" --episodes 5 
 ```
 
 
